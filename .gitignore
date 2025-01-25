@@ -1,2 +1,4 @@
-buildgen.bzl
 bazel-*
+**/BUILD
+**/BUILD.bazel
+!./BUILD.bazel
